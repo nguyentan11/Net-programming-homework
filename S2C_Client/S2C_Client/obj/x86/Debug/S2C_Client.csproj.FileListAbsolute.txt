@@ -1,0 +1,4 @@
+D:\Net program\S2C_Client\S2C_Client\bin\Debug\S2C_Client.exe
+D:\Net program\S2C_Client\S2C_Client\bin\Debug\S2C_Client.pdb
+D:\Net program\S2C_Client\S2C_Client\obj\x86\Debug\S2C_Client.exe
+D:\Net program\S2C_Client\S2C_Client\obj\x86\Debug\S2C_Client.pdb

@@ -1,0 +1,4 @@
+D:\Net program\S2C_Server\S2C_Server\bin\Debug\S2C_Server.exe
+D:\Net program\S2C_Server\S2C_Server\bin\Debug\S2C_Server.pdb
+D:\Net program\S2C_Server\S2C_Server\obj\x86\Debug\S2C_Server.exe
+D:\Net program\S2C_Server\S2C_Server\obj\x86\Debug\S2C_Server.pdb
